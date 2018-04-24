@@ -1,0 +1,42 @@
+body {
+	color: #7D7D7D;
+background-color: white;
+font-family: 'Raleway', sans-serif;
+font-size: 16px
+}
+
+ h1 {
+	color:#1E1E1E;
+	font-size: 44px;
+}
+
+ h2 {
+	color:#1E1E1E;
+	font-size: 32px;
+}
+
+ h3 {
+	color:#1E1E1E;
+	font-size: 28px;
+}
+
+.head {
+	padding-top: 90px
+}
+
+.firstcall {
+	padding-top: 50px
+}
+
+.check {
+	width: 50px;
+}
+
+.service-box {
+  max-width: 400px;
+ }
+
+
+.singer {
+	border: 2px solid #7D7D7D;
+}
